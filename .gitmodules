@@ -1,0 +1,9 @@
+[submodule "interface_robot_explorateur"]
+	path = interface_robot_explorateur
+	url = https://github.com/Bebel19/interface_robot_explorateur
+[submodule "mobile_robot_backend"]
+	path = mobile_robot_backend
+	url = https://github.com/MaelaViguier/mobile_robot_backend
+[submodule "robot_explorateur_raspberry"]
+	path = robot_explorateur_raspberry
+	url = https://github.com/Bebel19/robot_explorateur_raspberry

@@ -1,7 +1,5 @@
 # InterfaceRobotExplorateur - Full Stack Repository
 
-[Français](README.fr.md) | English
-
 ![Angular](https://img.shields.io/badge/frontend-Angular-red)
 ![Flask](https://img.shields.io/badge/backend-Flask-blue)
 ![Status](https://img.shields.io/badge/status-completed-green)
@@ -29,3 +27,8 @@ The robot can:
 
 This repository is intended to make the full project easier to clone, install, and run by keeping the frontend and backend linked in a single workspace.
 
+## Demo <div align="center"> <img src="https://github.com/Bebel19/interface_robot_explorateur/blob/master/src/assets/image/20240512_195038.jpg?raw=true" alt="Robot explorateur" width="400"/> <br/> <img src="https://github.com/Bebel19/interface_robot_explorateur/blob/master/src/assets/video/robot_explorateur.gif?raw=true" alt="Robot explorateur GIF" width="800"/> </div>
+
+## To use it
+
+Please refer to the README files for each submodule.
